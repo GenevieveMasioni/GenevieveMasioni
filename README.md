@@ -1,5 +1,5 @@
 <p align="center">
-    Hello, I am Geneviève ! 👋 <br>
+    Hello, I am Geneviève ! :wave: <br>
     Software engineering student based in Paris, France <br>
     :mortar_board: Major: Image & sound processing and artificial intelligence <br>
     :computer: Technologies: JavaScript, Java, C++, Python ... <br>
