@@ -1,10 +1,13 @@
-<p>
-    Hello, I am Geneviève ! :wave: <br>
-    Software engineering student based in Paris, France <br>
-    :mortar_board: Major: Image & sound processing and artificial intelligence <br>
-    :computer: Technologies: JavaScript, Java, C++, Python ... <br>
-    :notebook: Currently learning : p5.js, Tensorflow <br>
-    :email:	contact@genevievemasioni.com <br>
-    :star: Portfolio: https://genevievemasioni.com <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/genevieve-masioni <br>
-</p>
+### Hello, I am Geneviève ! :wave:
+
+I am a software engineer student based in Paris, France.
+
+:mortar_board: Majoring in: Image & sound processing and artificial intelligence
+:computer: Technologies: JavaScript, Java, C++, Python...
+:seedling: Currently learning: p5.js, Tensorflow
+:email:	contact@genevievemasioni.com
+:star: Portfolio: https://genevievemasioni.com 
+:briefcase: LinkedIn: https://linkedin.com/in/genevieve-masioni 
+
+#### :mag: Currently looking for a 4-month internship in Germany/ Spain starting Apris 2021
+
