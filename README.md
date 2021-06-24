@@ -8,6 +8,3 @@ I am a software engineer student based in Paris, France. :fr:
 - :email:	contact@genevievemasioni.com
 - :star: Portfolio: https://genevievemasioni.com 
 - :briefcase: LinkedIn: https://linkedin.com/in/genevieve-masioni 
-
-#### :mag: Currently looking for a 4-month internship in Germany :de: starting May 2021 ! 
-
