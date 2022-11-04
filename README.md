@@ -1,10 +1,10 @@
-### Hello, I am Geneviève ! :wave:
+### Hello, I'm Geneviève ! :wave:
 
-I am a software engineer student based in Paris, France. :fr:
+I am a software engineer based in Paris, France. :fr:
 
-- :mortar_board: Majoring in: Image & sound processing and artificial intelligence
-- :computer: Technologies: JavaScript, Java, C++, Python...
+- :eyes: Looking for a PhD position (CIFRE/ industrial thesis) in computer vision for 2023
+- :mortar_board: Education: MSc in Computer science (Image processing and AI)
+- :computer: Technologies: Python, JavaScript, Java, C++ / scikit-learn, Tensorflow
 - :seedling: Currently learning: p5.js, Tensorflow
-- :email:	contact@genevievemasioni.com
 - :star: Portfolio: https://genevievemasioni.com 
 - :briefcase: LinkedIn: https://linkedin.com/in/genevieve-masioni 
