@@ -6,4 +6,4 @@ I am a software engineer based in Paris, France. :fr:
 - :mortar_board: Education: MSc in Computer science (Image processing and AI)
 - :computer: Technologies: Python, JavaScript, Java, C++ / scikit-learn, Tensorflow
 - :seedling: Currently learning: p5.js, Tensorflow
-- Find me on my [website](https://genevievemasioni.com), [Youtube](https://youtube.com/c/genevievemasioni) or [LinkedIn](https://linkedin.com/in/genevieve-masioni)
+- Find me on my [website](https://education.genevievemasioni.com), [Youtube](https://youtube.com/c/genevievemasioni) or [LinkedIn](https://linkedin.com/in/genevieve-masioni)
